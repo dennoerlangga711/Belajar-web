@@ -6,7 +6,6 @@
 }
 
 
-/* BODY */
 body {
     background-color: #f3f6fa;
     color: #333;
@@ -14,7 +13,6 @@ body {
 }
 
 
-/* NAVBAR */
 .navbar {
     position: fixed;
     top: 0;
@@ -53,7 +51,7 @@ body {
 }
 
 
-/* HERO */
+
 .hero {
     height: 100vh;
 
@@ -110,7 +108,7 @@ body {
 }
 
 
-/* ABOUT */
+
 .about {
     padding: 80px 50px;
     text-align: center;
@@ -131,7 +129,7 @@ body {
 }
 
 
-/* MEMBERS */
+
 .members {
     padding: 80px 50px;
     text-align: center;
@@ -179,7 +177,7 @@ body {
 }
 
 
-/* PROJECT */
+
 .project {
     padding: 80px 50px;
     text-align: center;
